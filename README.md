@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salih</h1>
 <h3 align="center">A passionate backend developer from Türkiye.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=styraist" alt="styraist" /></a> </p>
-
 - 💼 My portfolio website [Portfolio](https://styraist.github.io/online-cv/)
 
 <h3 align="left">Connect with me:</h3>
